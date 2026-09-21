@@ -19,7 +19,7 @@ public class Steps {
 	LoginPage lp;
 	PracticePage pp;
 	
-	//Before Hook
+	
 	@Before
 	public void setup() {
 		   
@@ -133,7 +133,7 @@ public class Steps {
 		
 	}
 
-	//After Hook
+	
 	@After
 	public void tearDown() {
 		driver.quit();
