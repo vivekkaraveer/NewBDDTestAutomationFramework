@@ -1,0 +1,4 @@
+com\stad\testautomation\pages\PracticePage.class
+com\stad\testautomation\pages\HomePage.class
+com\stad\testautomation\pages\LoginPage.class
+com\stad\testautomation\pages\TestLoginPage.class
